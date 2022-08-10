@@ -1,0 +1,5 @@
+<img src="hospedagem/hospedagem.jpg" alt="a frente de uma hospedagem"> 
+<img src="hospedagem/hospedagem2.jpg" alt="chalé/hospedagem"> Endereço: m 85,5 Rodovia Castelo Branco, Itu, CEP 13300-000, Brasil
+			<img src="hospedagem/hotel.jpg" alt="hotel">
+			<img src="hospedagem/piscina.jpg" alt="piscina da pousada">
+			<img src="hospedagem/quarto.jpg" alt="quarto da pousada"> 
